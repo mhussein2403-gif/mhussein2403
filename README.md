@@ -7,7 +7,7 @@
 
 <h2> :page_facing_up: Certifications </h2>
 
-- [CompTIA a+](https://github.com/joshmadakor1/Algorithms-Practice)
+- [CompTIA a+](https://www.credly.com/badges/9cb7c8c3-2a09-40ee-9538-859050074d62/public_url)
   
 <h2> 🤳 Connect with me:</h2>
 
